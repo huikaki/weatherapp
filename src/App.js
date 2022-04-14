@@ -1,6 +1,6 @@
 import logo from './logo.svg'
 import './App.css'
-// Import your element and the BootstrapComponent from your Exercise directory
+// Import your element from your Exercise directory
 
 function App () {
   return (
@@ -19,7 +19,7 @@ function App () {
           Learn React
         </a>
       </header>
-      {/* Add your imported element and component in this section */}
+      {/* Add your imported element in this section */}
     </div>
   )
 }
