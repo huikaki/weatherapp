@@ -1,3 +1,3 @@
-// Create your JSX element here, remember to export it
+// Create your JSX element here
 
 export const element = <>{/* Your Code here */}</>
